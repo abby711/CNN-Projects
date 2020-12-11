@@ -6,3 +6,5 @@ This list shows the projects which are be built to develop hands-on experience i
 CHARACTER RECOGNITION USING CNN WITH GUI
 
 DIABETES DETECTION
+
+Label reading using Optical Character Recognition OCR 
